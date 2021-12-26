@@ -1,1 +1,1 @@
-# stock-prediction
+stock prediction via GRU & LSTM
